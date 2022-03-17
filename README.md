@@ -3,7 +3,7 @@
 # Merhaba, ben Bilal Yıldız!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<img align='right' src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" width="400" height="400">
+<img align='right' src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" width="400" height="450">
 
 
 <p>&nbsp;
