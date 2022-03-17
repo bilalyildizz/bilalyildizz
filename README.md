@@ -3,18 +3,16 @@
 # Merhaba, ben Bilal Yıldız!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
+<img align='right' src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" width="400" height="400">
 
 
 <p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgecakar&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilgecakar" width="50%" /></p>
-
-
-
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalyildizz&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilalyildizz" width="50%" /></p>
 
 
 
 - 🌱 I’m currently learning IOS Development.
-- 📫 Email :  **bilgecakar123@gmail.com**
+- 📫 Email :  **bilal.yildizz00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
@@ -40,4 +38,4 @@
 </p>
 <hr></hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilgecakar&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalyildizz&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
