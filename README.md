@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning Java Spring Boot.
+- 🌱 I’m currently learning Spring Boot.
 - 📫 Email :  **bilal.yildizz00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
