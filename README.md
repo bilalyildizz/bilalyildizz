@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
-
-# Merhaba, ben Bilal Yıldız!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Merhaba, ben Bilal Yıldız! 
 
  <img align='right' style="margin-right:80px" src="https://images.squarespace-cdn.com/content/v1/5c4e5b6131d4df315bb28528/1592471255405-E4019ITEHR89GU2L02IK/image-asset.gif?format=500w" width="300" height="300">   
  
@@ -11,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning Spring Boot.
+- 🌱 I’m currently learning React.
 - 📫 Email :  **bilal.yildizz00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
