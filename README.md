@@ -1,8 +1,6 @@
 # Merhaba, ben Bilal Yıldız! 
 
 
-<p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalyildizz&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilalyildizz" width="50%" /></p>
 
 
 
@@ -16,4 +14,3 @@
 
 <hr></hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalyildizz&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
